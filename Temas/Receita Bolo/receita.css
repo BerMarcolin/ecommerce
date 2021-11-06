@@ -1,0 +1,57 @@
+h1 {
+    font-size: 75px;
+    font-weight: normal;
+    text-align: center;
+    text-transform: initial;
+}
+
+body {
+    background-color: tan;
+    padding: 90px;
+}
+
+div {
+    background-color: wheat;
+    padding: 55px;
+    box-shadow: 0 0 10px 10px rgba(255, 170, 14, 0.377);
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+
+h2 {
+    border-bottom: 3px solid sandybrown;
+    padding-bottom: 17px;
+}
+
+h3 {
+    font-size: 21px;
+    padding-left: 7px;
+}
+
+#ingre {
+    list-style-type: circle;
+    line-height: 20px;
+}
+
+li {
+   padding-bottom: 5px;  
+}
+
+#massa {
+    line-height: 25px;
+}
+
+img {
+    width: 450px;
+    height: 400px;
+    position: absolute;
+    top: 312px;
+    left: 815px ;
+    border-radius: 25px;
+    box-shadow: 0 0 10px 10px rgba(255, 170, 14, 0.377);
+}
+
+i {
+    text-align: right;
+}
